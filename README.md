@@ -27,7 +27,7 @@ Required libraries: [Sound]
 
 includes
 - Attempted Boss
-- Game-over screen with saved results
+- Game-over screen
 
 All sound is found off of Pixabay
 ## Testing

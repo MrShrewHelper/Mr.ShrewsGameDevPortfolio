@@ -4,6 +4,6 @@
 
 ### OOP The Mouse Quest
 
-![]()
+![Mouse Quest]()
 
 []()
